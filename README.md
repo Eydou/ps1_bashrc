@@ -1,6 +1,7 @@
 # ps1_bashrc
-I share my own ps1 prompt bashrc
+I share my own ps1 prompt bashrc,
 the second parenthesis is the git branch
+
 If you like it, put a star !
 
 <p align="center">
