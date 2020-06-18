@@ -1,2 +1,16 @@
 # ps1_bashrc
 I share my own ps1 prompt bashrc
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Eydou/ps1_bashrc/blob/master/Prompt.png">
+</p>
+
+## Authors
+
+ **[Edouard Touch](https://github.com/Eydou)** - **[Alexis Lopes](https://github.com/LopesAlexis)**
+ 
+[6.1]: http://i.imgur.com/0o48UoR.png (Follow me !)
+
+[1]: https://github.com/Eydou
+
+Follow me on [![alt text][6.1]][1]
